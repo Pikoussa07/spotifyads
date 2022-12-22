@@ -1,0 +1,20 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+
+/src/Release
+/src/Debug
+*.sln
+/Debug
+/Release
+*.exp
+*.iobj
+*.ipdb
+*.pdb
+*.lib
+*.dll
+*.aps
+*.zip
+/.vs
+/src/.vs/BlockTheSpot/v16
